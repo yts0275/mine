@@ -3,7 +3,7 @@ layout: post
 title:  "1. 디자인 패턴이란 ?"
 subtitle:   "디자인 패턴이란?"
 categories: Web
-tags: Design Pattern
+tags: DesignPattern
 order: 1
 ---
 

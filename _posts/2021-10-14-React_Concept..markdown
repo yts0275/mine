@@ -3,7 +3,7 @@ layout: post
 title:  "1. React 의 등장배경과 개념"
 subtitle:   "개념"
 categories: Web
-tags: React & Redux
+tags: React&Redux
 order: 1
 ---
 
