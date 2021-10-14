@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Redux
-slug: Redux
+title: React & Redux
+slug: React & Redux
 category: Web
 menu: false
 order: 1
