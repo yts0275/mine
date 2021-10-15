@@ -12,7 +12,8 @@ order: 1
 결과는 정상적으로 출력되지만 이는 시간 초과 문제가 발생했다.
 
 * 구현 코드
-'''
+
+~~~
 import sys
 import heapq
 
@@ -60,9 +61,9 @@ def problem1005():
         goal = int(sys.stdin.readline())
         result = dijkstra(graph, goal, time_list)
         sys.stdout.write(str(max(result.values())))
-'''
+~~~
 
-### 성공 사례 아이디어 !
+### 성공 사례 아이디어
 **위상 정렬**과 **DP** 를 사용해야 된다고 한다 !
 
 #### 1. 위상 정렬(Topological Sort)이란 ?
